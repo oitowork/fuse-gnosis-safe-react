@@ -24,6 +24,7 @@ Besides the Ethereum Mainnet, the following networks are supported:
 - [Binance Smart Chain](https://bsc.gnosis-safe.io/app/)
 - [Energy Web Chain](https://ewc.gnosis-safe.io/app/)
 - [Volta Testnet](https://volta.gnosis-safe.io/app/)
+- [Fuse](ttps://fuse.gnosis-safe.io/app/)
 
 ## Getting Started
 
